@@ -56,7 +56,8 @@ slot-machine-website/
 
 ## 📷 Screenshots
 
-![Slot Machine UI](https://user-images.githubusercontent.com/your-screenshot-path/example.png) <!-- Replace with your own screenshot if desired -->
+![Slot Machine UI]("<img width="1916" height="910" alt="Screenshot 2025-10-05 154825" src="https://github.com/user-attachments/assets/3a69b710-c7c0-4c68-b343-e3da07aa1af2" />
+") <!-- Replace with your own screenshot if desired -->
 
 ---
 
